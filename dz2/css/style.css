@@ -1,0 +1,23 @@
+﻿.img {
+    border: 3px solid #E138AA;
+}
+
+.name {
+    color: #00CC00;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.list {
+    color: #FF4040;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.text-in-list {
+    color: #1464c6;
+    font-size: 19px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
